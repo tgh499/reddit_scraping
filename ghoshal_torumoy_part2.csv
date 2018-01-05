@@ -1,0 +1,1213 @@
+,Comment_ID,Author,Points,Time,Parent_id,Text,Permalink
+1,thing_t1_d324kib,CerebralBypass,25,2016-05-12T01:22:13+00:00,root,"An unattributed quote? That plays into conservative fantasy? No fact checking required: it's crap.
+
+Even if some random individual did say this, who cares? A quick glance at Bernie's own statements on veterans proves this to be crap.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4iy9rh/this_image_seems_made_up_can_anyone_confirm/d324kib
+2,thing_t1_d328396,Mange-Tout,13,2016-05-12T02:53:08+00:00,d328396,"I would be surprised if it was real, but then again naive teenagers have been known to say incredibly stupid things at times. Either way, it's just garbage propaganda and is best ignored.
+
+Edit: It appears to have originated at 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4iy9rh/this_image_seems_made_up_can_anyone_confirm/d328396
+3,thing_t1_d334whk,voyetra8,6,2016-05-12T20:14:36+00:00,root,"<a href=""http://imgur.com/qTBGHDE"" rel=""nofollow"">IE - the same page that has this....</a>
+
+It's clearly satire. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4iy9rh/this_image_seems_made_up_can_anyone_confirm/d334whk
+4,thing_t1_d32mjs2,ggleblanc,4,2016-05-12T13:20:04+00:00,root,"The image was created based on 
+
+I think the point of the image was to show incredulity towards one Bernie Sanders supporter, not Bernie Sanders himself.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4iy9rh/this_image_seems_made_up_can_anyone_confirm/d32mjs2
+5,thing_t1_d32kav3,sweetgreggo,3,2016-05-12T12:01:56+00:00,root,"Bernie has never stated anything close to what this says. The person that wrote this is most likely pushing a conservative agenda, and this was created to incite conservatives and further harden their stance. It makes for good JOS material on Facebook. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4iy9rh/this_image_seems_made_up_can_anyone_confirm/d32kav3
+6,thing_t1_d3d11uz,thebabbster,1,2016-05-20T15:43:01+00:00,root,"Just like with Trump and his fans: it's not so much what Bernie says or doesn't say, it's what his fans say. Trump says some really inflammatory shit, but his fans are ten times worse. Same with Bernie Sanders. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4iy9rh/this_image_seems_made_up_can_anyone_confirm/d3d11uz
+7,thing_t1_d33zu9g,Daedalus1907,7,2016-05-13T13:33:28+00:00,d33zu9g,"Exit polls aren't reliable for election results. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d33zu9g
+8,thing_t1_d345mzr,MachinesOfN,6,2016-05-13T15:52:39+00:00,root,"His examples of incorrect exit polls are nearly identical to the ones highlighted in the 
+
+Edit: Reading again, the results he describes from the exit polls match very closely with the small-precinct (unadjusted) results from the paper I linked. The Santorum example is particularly striking. I changed the wording of the above paragraph to reflect the closeness of the match.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d345mzr
+9,thing_t1_d34fcoe,del_rio,5,2016-05-13T19:29:49+00:00,d34fcoe,"That image is as sketchy as it gets, and the data seems to be fake. Looking at the first row (Georgia), CNN's exit poll numbers are 65 Clinton, 34 Bernie, but the 
+
+As others said, exit polls are also notoriously inaccurate, and ""controversial"" images like those appear every election cycle, fake or not (
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d34fcoe
+10,thing_t1_d34hrfu,MachinesOfN,5,2016-05-13T20:26:09+00:00,root,"A couple things:
+
+The Kerry Bush election you're using as an example may well have been rigged (some compelling data 
+
+According to at least one source I saw, CNN adjusted their exit poll numbers when the final result was called. Unfortunately, Wayback didn't index that page, so I couldn't see for sure. It's not unreasonable though. Their exit polls are designed to extract demographic data, so adjusting them based on the official results may give better information about the demographics (assuming the official results are valid).
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d34hrfu
+11,thing_t1_d4xdnbd,QQueenBee,1,2016-07-03T05:00:04+00:00,root,"the data is always wrong in these memes because the source is richard charnin jfk conspiracy theorist who makes up his own data and labels it ""unskewed"" or ""unadjusted"" but its literally just made up out of thin air
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d4xdnbd
+12,thing_t1_d34345n,CerebralBypass,4,2016-05-13T14:56:06+00:00,d34345n,"No. This is someone who just doesn't understand Margin of Error, or is exploiting others lack of understanding.
+
+Taking just the first line:
+
+This means the projected lead for Clinton is somewhere between 43.4% and 20.6%. Making her eventual win and lead in vote counts right in line with projections.
+
+Numeracy is important.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d34345n
+13,thing_t1_d34aw6b,MachinesOfN,8,2016-05-13T17:49:11+00:00,root,"I've seen different numbers on that.
+
+For the benefit of people who are shaky on stats, the margin of error basically means that there's a 95% probability that the actual result will fall between poll-margin and poll+margin. Because the possible outcomes follow a normal distribution, the probability of the result being outside the margin goes down exponentially as the distance increases.
+
+The cumulative margin of error with all polls and states was 2%, actual discrepancy was 4.8%. That means that the actual result was almost five standard deviations away from predicted (margin of error is two standard deviations). Rounding down to 4.5 standard deviations, the odds of that happening naturally are roughly 
+
+Clinton likely would have won regardless, but there is some evidence that something fishy happened in the primary.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d34aw6b
+14,thing_t1_d33x3t6,MagillaGorillasHat,6,2016-05-13T12:03:26+00:00,d33x3t6,"...Leading you to believe that things were rigged on the DNC side.  
+
+Plenty of explanations apart from being rigged.  
+
+An exit poll is just someone asking people who they voted for and marking it down. Could just be a lot of people lied about voting for Bernie.
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d33x3t6
+15,thing_t1_d341n2y,inthedarkbluelight,6,2016-05-13T14:21:06+00:00,d341n2y,"I'm a Clinton supporter and I usually keep that to myself because you never know who is going to scream at you for supporting her over Bernie. 
+
+Edit: Why the downvotes? 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d341n2y
+16,thing_t1_d34che7,withateethuh,8,2016-05-13T18:25:00+00:00,d34che7,"Its really frustrating how many of my friends treated/still treat Clinton supporters like this, and then wondered why they couldn't bring more voters to his side. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d34che7
+17,thing_t1_d34dz6v,inthedarkbluelight,2,2016-05-13T18:58:32+00:00,d34dz6v,"Yeah, I got outed on facebook as a Clinton supporter and Bernie supporters I know started leaving fliers on my door with rude messages.
+
+I live in California though so I suppose the stakes are higher here than in other states.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d34dz6v
+18,thing_t1_d34jf8j,mattyyboyy86,1,2016-05-13T21:06:39+00:00,d34jf8j,"I doubt the people working the polls would pass judgement on who you give your vote to. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d34jf8j
+19,thing_t1_d34m8ch,inthedarkbluelight,2,2016-05-13T22:20:59+00:00,d34m8ch,"My local poll workers are all Republicans.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d34m8ch
+20,thing_t1_d34njv3,mattyyboyy86,1,2016-05-13T22:57:57+00:00,d34njv3,"I would think in the name of professionalism they would keep that to themselves. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d34njv3
+21,thing_t1_d34ocbp,inthedarkbluelight,3,2016-05-13T23:21:02+00:00,d34ocbp,"They work for free. Last time I was in there they were all vocally complaining about Obama. Which is weird to me since all of them are poor. My polling center is built into the bottom of some section 8 housing. The volunteers also live there. You'd think people dependant on government assistance would vote democrat.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d34ocbp
+22,thing_t1_d34uckk,mattyyboyy86,0,2016-05-14T02:22:30+00:00,root,"Right!? crazy... Those people blow my mind. I guess if there ex military they are brainwashed to think war is the answer to everything. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d34uckk
+23,thing_t1_d4dpixx,nilecroc,1,2016-06-17T23:29:47+00:00,root,"It's the uncontrollable rage we feel. It's not you, it's us.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d4dpixx
+24,thing_t1_d33te2l,darkangelx,1,2016-05-13T08:46:52+00:00,d33te2l,"Its harder with more people running or fewer votes.  Check teh big counties :P
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d33te2l
+25,thing_t1_d33tss9,mattyyboyy86,0,2016-05-13T09:12:01+00:00,d33tss9,"So your saying that this has even more credence since there are more candidates in the Republican field.  
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d33tss9
+26,thing_t1_d34gyfa,darkangelx,1,2016-05-13T20:07:18+00:00,root,"I'm  saying its a math thing.  If there are only 2 people its easy to fuck shit up.  Notice how WV had 5 candidates and she got her ass handed to her?
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4j5dt6/was_the_dnc_primary_rigged_with_voting_machines/d34gyfa
+27,thing_t1_d36eduo,TheCavis,22,2016-05-15T15:46:36+00:00,d36eduo,"<a href=""http://www.businessinsider.com/50-richest-people-on-earth-2016-1"" rel=""nofollow"">Six richest people from here</a>
+
+That's $365.7B in total. 6% of that would be $21B.
+
+12.7% of the world's population lives below the lowest poverty line (
+
+$21B/900M/($1.90 per day) gives about 12 days out of poverty if they were making effectively $0 before the infusion. If they were close to the line, let's say making $1.80, then they would be out of poverty for about eight months (243.8 days). 
+
+Either way, the quote seems inaccurate or misleading (it's phrased as ""poverty's gone forever!"" instead of ""poverty's gone for a couple of weeks!""). The very wealthiest people aren't sufficiently wealthy when you spread their cash over the huge number of people who make effectively nothing. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jg8p6/no_poverty/d36eduo
+28,thing_t1_d36w8pv,davidmanheim,6,2016-05-15T23:59:48+00:00,root,"Further,  the idea that you could effectively distribute the money in a way that targets only those in poverty is laughable.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jg8p6/no_poverty/d36w8pv
+29,thing_t1_d3wnb39,_mainus,2,2016-06-05T08:19:22+00:00,root,"To play devil's advocate, perhaps they were referring to their income/earning potential rather than their net worth? Ignoring their actual investments and assuming it's quite easy to make 10% RoI that would give 36.57 billion per year in income, which, divided among your 900m people, gives 11 cents per day per person. So, if most of them were making $1.80/day, that would do it... just barely.
+
+I know it's a stretch, and that most of those people probably don't make close to $1.80/day, but it's likely that those people earn better than 10% on that net worth also
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jg8p6/no_poverty/d3wnb39
+30,thing_t1_d538bu2,CaspianX2,1,2016-07-07T19:29:35+00:00,root,"This seems to be a pretty definitive answer, and no one has really given a strong counter-argument, so I'm going to go ahead and mark this as 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jg8p6/no_poverty/d538bu2
+31,thing_t1_d3bui6o,JurijFedorov,15,2016-05-19T17:36:56+00:00,d3bui6o,"I don't think there has ever been a single war where more women than men died. Women often get desk positions in the military even today. And WW2 and WW1 were mainly men going to war and only very few women if any.
+
+She was talking to a group of feminists. This statement is 100% false.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3bui6o
+32,thing_t1_d3d5a91,TchambersMD,3,2016-05-20T17:19:35+00:00,d3d5a91,"The issue is as for most recent wars over 90% of the causalities are civilian, then the question of women casualties is not as clear cut as you define it. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3d5a91
+33,thing_t1_d3d6gko,JurijFedorov,5,2016-05-20T17:46:06+00:00,d3d6gko,"In what war was 90% civilian casualties where most of them were women?
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3d6gko
+34,thing_t1_d53azak,CaspianX2,2,2016-07-07T20:21:52+00:00,root,"From 
+
+While some might argue that Clinton was inaccurate in labeling women as the ""primary victims of war"" (since the 
+
+The United Nation Security Council repeated this assertion in 2008 when it adopted Resolution 1325, which 
+
+[C]ivilians account for the vast majority of those adversely affected by armed conflict; women and girls are particularly targeted by the use of sexual violence, including as a tactic of war to humiliate, dominate, instill fear in, disperse and/or forcibly relocate civilian members of a community or ethnic group; and sexual violence perpetrated in this manner may in some instances persist after the cessation of hostilities.
+
+[We] condemn in the strongest terms all sexual and other forms of violence committed against civilians in armed conflict, in particular women and children.
+
+[We] reiterate deep concern that, despite its repeated condemnation of violence against women and children in situations of armed conflict, including sexual violence in situations of armed conflict, and despite its calls addressed to all parties to armed conflict for the cessation of such acts with immediate effect, such acts continue to occur, and in some situations have become systematic and widespread, reaching appalling levels of brutality.
+
+I don't know about the 90% number. I'm not sure about ""casualties"", but the quote in question says ""victims"", and it looks like what it comes down to is a question of what you consider to be a ""victim"", but I think that most would consider those who are targeted by rape to indeed be ""victims"", and I suspect most would also agree that if the rape is perpetrated by members of a military or militant group then it is indeed a byproduct of war itself.
+
+Now, Clinton might not have intended this statistic when she spoke on the topic, or she may have misspoke. Clearly many here disagree with her claim that women are the primary victims due to them being 
+
+
+
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d53azak
+35,thing_t1_d528s64,JimsPseudonym,1,2016-07-07T01:37:24+00:00,root,"I'm curious, where did you get the 90% number? Not criticizing, just curious.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d528s64
+36,thing_t1_d3wndr8,_mainus,2,2016-06-05T08:23:54+00:00,d3wndr8,"Women have always been the primary victims of war. Women lose their husbands, their fathers, their sons in combat. Women often have to flee from the only homes they have ever known. Women are often the refugees from conflict and sometimes, more frequently in today's warfare, victims.
+
+She clearly wasn't just talking about dying in combat here... I don't agree with her either, but don't misrepresent what she said.
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3wndr8
+37,thing_t1_d3wnx4v,JurijFedorov,2,2016-06-05T08:59:01+00:00,d3wnx4v,"Well, OP asked about war casualties. I thought he meant people killed or injured. What Hillary meant we don't know. She hasn't explained that statement. But it is 100% false.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3wnx4v
+38,thing_t1_d3wp28u,_mainus,3,2016-06-05T10:16:51+00:00,d3wp28u,"She explained it in the next couple of sentence, are you able to read things in context?
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3wp28u
+39,thing_t1_d3wpk9w,JurijFedorov,2,2016-06-05T10:50:16+00:00,root,"Read the question.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3wpk9w
+40,thing_t1_d396r4t,inthedarkbluelight,8,2016-05-17T19:19:33+00:00,d396r4t,"Is she talking about rape?
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d396r4t
+41,thing_t1_d39b8ka,TchambersMD,7,2016-05-17T20:54:20+00:00,root,"Including but not only. I think it is about the whole burden of war: deaths, injuries, etc.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39b8ka
+42,thing_t1_d39b9fy,TchambersMD,7,2016-05-17T20:54:50+00:00,d39b9fy,"Here is a starting point:
+
+<a href=""http://www.snopes.com/hillary-clinton-victims-of-war/"">http://www.snopes.com/hillary-clinton-victims-of-war/</a>
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39b9fy
+43,thing_t1_d3de68z,CaspianX2,5,2016-05-20T20:46:53+00:00,root,"It bears mention that this Snopes article is checking whether or not she actually 
+
+However, that said, it does link to one relevant bit of information:
+
+While some might argue that Clinton was inaccurate in labeling women as the ""primary victims of war"" (since the 
+
+The United Nation Security Council repeated this assertion in 2008 when it adopted Resolution 1325, which 
+
+[C]ivilians account for the vast majority of those adversely affected by armed conflict; women and girls are particularly targeted by the use of sexual violence, including as a tactic of war to humiliate, dominate, instill fear in, disperse and/or forcibly relocate civilian members of a community or ethnic group; and sexual violence perpetrated in this manner may in some instances persist after the cessation of hostilities.
+
+[We] condemn in the strongest terms all sexual and other forms of violence committed against civilians in armed conflict, in particular women and children.
+
+[We] reiterate deep concern that, despite its repeated condemnation of violence against women and children in situations of armed conflict, including sexual violence in situations of armed conflict, and despite its calls addressed to all parties to armed conflict for the cessation of such acts with immediate effect, such acts continue to occur, and in some situations have become systematic and widespread, reaching appalling levels of brutality.
+
+It looks like what it comes down to is a question of what you consider to be a ""victim"", but I think that most would consider those who are targeted by rape to indeed be ""victims"", and I suspect most would also agree that if the rape is perpetrated by members of a military or militant group then it is indeed a byproduct of war itself.
+
+Now, Clinton might not have intended this statistic when she spoke on the topic, or she may have misspoke. Clearly many here disagree with her claim that women are the primary victims due to them being 
+
+Given this, I would be inclined to say this claim is 
+
+
+
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3de68z
+44,thing_t1_d3aa5zp,CK_America,12,2016-05-18T15:07:37+00:00,d3aa5zp,"I served in the Army, thankfully not in war. You people are crazy. Like there's high rates of veterans suicide, that's mostly men. Men die in the wars so that terror never gets here in the first place. Or some of them have to suffer the emotional scarring of being tricked into fighting for a corporation, or just the fact that they watched their friends die. Male veteran homelessness is through the roof. Cases of PTSD and alcoholism are abundant. There's an undertone of male disposability that is prominent in society, some of which currently in here, that's not only expressed by men going to die in war for the good of everyone else, it's emboldened by it. Specifically because their voices are gone. Like male trauma is not even counted, and you have the audacity to say women suffer more from war. 
+
+That's a western interpretation of this frame, because what war is to us, women have it easy here, thus Clinton being the one to say this is pretty offensive, even though it was over 20 years ago. 
+
+Globally there's a better case for your/her point, but it's frame is still completely bias and dismissive of the horrors men go through in war. War in itself is bad for women, third world countries and civil wars specifically, but the gravity of a life is lost on this conversation. Men not being there to suffer with them in the first place isn't even included, and it spits on all those who gave up their life, so the ones left would have the right to live, the right to experience more things in this existence. Love, raise kids, and risk suffering from society at that point forward. Men gave up the very opportunity to suffer, it's a bigger price.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3aa5zp
+45,thing_t1_d3ajus3,alphabets00p,5,2016-05-18T18:36:50+00:00,root,"I'm pretty sure she was speaking in global terms. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3ajus3
+46,thing_t1_d39cxcq,saenor,9,2016-05-17T21:32:21+00:00,root,"Check out Dan Carlin's Hardcore History.  The old world loved to exploit the spoils of war.  I would rather die on a battle field than witness any one be raped to death just before it happened to me, but Im just a guy that has never had anything forced into me out of hatred.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39cxcq
+47,thing_t1_d39c0gj,TchambersMD,6,2016-05-17T21:11:52+00:00,d39c0gj,"This is unsourced, but maybe a clue to finding sourced data:
+
+""Women and children account for almost 80% of the casualties of conflict and war as well as 80% of the 40 million people in world who are now refugees from their homes.""
+
+<a href=""http://www.commondreams.org/views04/1219-26.htm"">http://www.commondreams.org/views04/1219-26.htm</a>
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39c0gj
+48,thing_t1_d39cba0,ClutchHunter,7,2016-05-17T21:18:43+00:00,d39cba0,"If anyone can source this I'd appreciate it too. Not at all familiar with these numbers.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39cba0
+49,thing_t1_d39f586,Jorfogit,9,2016-05-17T22:23:51+00:00,root,"CommonDreams is basically a left wing version of the Blaze.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39f586
+50,thing_t1_d3deama,CaspianX2,0,2016-05-20T20:49:52+00:00,root,"If this were sourced, it would pretty much prove Clinton's claim without a doubt.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3deama
+51,thing_t1_d398x54,DoctorBees69,6,2016-05-17T20:04:56+00:00,d398x54,"No, it's pants-on-head retarded. There is no way to quantify, justify, or prove that. Men by far participate more in the war and they DIE. Yes, women have a hard time losing their husbands and sons, but they do not die near as often. This is just her playing her woman card, because the only valid reason she has for presidency is that she deserves to be the president as a woman.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d398x54
+52,thing_t1_d39c6yx,Laragon,20,2016-05-17T21:16:01+00:00,d39c6yx,"You're misreading the statement out of a prejudice against Hillary, here, a non-Hillary version of it. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39c6yx
+53,thing_t1_d39ckpl,TchambersMD,9,2016-05-17T21:24:30+00:00,root,"Good article: especially this from it:
+
+Many aspects of war affect women and girls disproportionately.  According to recent studies on life expectancy among unarmed civilians caught in armed conflict, women are the primary adult victims of war. (13)  For example, a unique harm of war on women is the trauma inflicted by military brothels, rape camps, sex trafficking for prostitution, and increased domestic violence.  In addition, widows of war and women refugees of war are particularly vulnerable to poverty, prostitution, and higher illness and death following armed conflict.  Furthermore, it has been documented that senior officers of war have commonly accepted and sanctioned the sexual exploitation of local women by military men. (14)(15)(16)
+
+(13) Ashford, Mary-Wynne, & Huet-Vaughn, Yolanda (2000). The impact of war on women. In Barry S. Levy, & Victor W. Sidel (Eds.), War and public health (pp. 186– 196). Washington, DC7 American Public Health Association.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39ckpl
+54,thing_t1_d39cg6s,DoctorBees69,4,2016-05-17T21:21:46+00:00,d39cg6s,"No, I understand what you are saying, but I disagree with the thought that women are more affected as refugees and losing family members than those who actually fight, become injured/disabled, and die in the wars.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39cg6s
+55,thing_t1_d39jj1m,gordo65,14,2016-05-18T00:10:56+00:00,d39jj1m,"But you're completely ignoring the document in favor of your assumptions. Here's a quote:
+
+civilians, particularly women and children, account for the vast majority of those adversely affected by armed conflict, including as refugees and internally displaced persons, and increasingly are targeted by combatants and armed elements
+
+So it is the women and children, not the men, who are the primary victims of war.
+
+If the cited study that this statement is based upon had flawed reasoning or methodology, then tell us where they went wrong. But don't say that ""there is no way to quantify, justify, or prove that"" when you haven't even bothered to read the summary, let alone the study itself. And don't assume that everyone who disagrees with you is ""pants-on-head retarded"" just because you haven't taken the time to look at their evidence or their arguments.
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39jj1m
+56,thing_t1_d3a3ow1,st_gulik,1,2016-05-18T12:10:18+00:00,d3a3ow1,"So dying and being injured as a soldier doesn't count?
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3a3ow1
+57,thing_t1_d3a99w7,gordo65,10,2016-05-18T14:47:19+00:00,d3a99w7,"I don't know why this is hard to understand.
+
+More women are killed as a result of war than men. This is true despite the fact that it's usually the men who carry the guns during war (actually, it's because of that fact). That makes women the primary victims of war.
+
+That doesn't mean that men don't matter, or that men being killed in war isn't tragic. It simply means that the 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3a99w7
+58,thing_t1_d3arwhu,st_gulik,3,2016-05-18T21:23:44+00:00,d3arwhu,"I have yet to see evidence that proves that. Everything I've seen shows they're displaced and inconvenienced (greatly at times), but for total deaths compared to men in war I've never seen.
+
+Literally 99.99% of combat deaths and injuries throughout known history and likely prehistory have been men. That is a fact. 
+
+Total War wasn't a thing until the March to the Sea during the American Civil War. So I find the claim that more women have died because the men had the weapons ludicrous. The men were using the weapons mostly on each other.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3arwhu
+59,thing_t1_d3c3h3j,Havvix,7,2016-05-19T20:51:14+00:00,root,"Do you have any sources to support this?  You are making assertions but have no data of any kind.  Btw you should read about what The Mongols did to cities and their populations before you repeat your claims about history 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3c3h3j
+60,thing_t1_d3a4wqx,apreotea,1,2016-05-18T12:52:46+00:00,root,"Of course not, silly... /s
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3a4wqx
+61,thing_t1_d39ckt8,Laragon,3,2016-05-17T21:24:34+00:00,d39ckt8,"Well, the dead really 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39ckt8
+62,thing_t1_d39evy0,Wormhole-Eyes,6,2016-05-17T22:17:48+00:00,root,"No, the dead are affected long term. But they don't suffer from it.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39evy0
+63,thing_t1_d39b7sm,TchambersMD,4,2016-05-17T20:53:52+00:00,d39b7sm,"But death in warfare is beyond direct deaths on battlefield: most recent wars and civil wars are vastly more civilian deaths, and thought there could be good data on gender for those overall.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39b7sm
+64,thing_t1_d39cbj6,DoctorBees69,5,2016-05-17T21:18:52+00:00,d39cbj6,"In the context of the way she described it with women losing their husbands, fathers, etc., she seemed to think that women were affected so severely because of their losses, not the loss of life the men suffered.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39cbj6
+65,thing_t1_d39chsc,TchambersMD,4,2016-05-17T21:22:44+00:00,root,"Women are often the refugees from conflict and sometimes, more frequently in today's warfare, victims. 
+
+I think that was part of the statement, but also listed the full burden of war including death: "" Women are often the refugees from conflict and sometimes, more frequently in today's warfare, victims.""
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d39chsc
+66,thing_t1_d3at5sz,Meistermalkav,2,2016-05-18T21:53:32+00:00,root,"Just as accurate as saying 99,9% of women survive a war compared to a 50 % casualty rate ( that thanks to the reccent efforts of the americans, goes up to 75 % if you just happened to be born male)
+
+The argument that you make is that women, because they are still benefittiong from a patriarchal entitlement to be the weak and precious gender that needs to be protected and coddled, never experience the full hardship of war, because most states where feminists are a voice keep females out of of frontline combat.
+
+So, if you want to make that argument, be prepared that I will ask you, how many female veterans commit suicide, and how many men. I will ask you, How many women on average survive an engagement, how many men. I will ask you, How many treatment options for females that suffer from PTSD, or any mental health problems are open. I will ask you, how much money has been spent for treatment options that are accessible to males, how much for treatment options that are accessible to females? I will ask how many of them are open to admitting men. I will ask you, who has the higher injury rates among armed forces and civillians combined, men or women. How about the higher self medication rate with alcohol / legal drugs? How about what gets you more of a payout, being the victim of domestic violence, or being a corpse in war?
+
+You want to talk victims of war? Be fucking honest about it. I do not deny that women suffer in war, and that living with the memories of war is a fucking horrific thing for anybody. 
+
+But to say ""being alive is the worst punishment of all"" denies the fact that the rest is, you know, dead. Not alive anymore. That is why the survivors have things like survivors guilt. even they recognise, on a personal basis, that a lot of those who died would have given anything to just have survived. 
+
+To exclude them from the picture is like saying, oh, yea, it was really bad that he murdered all those people, but look at what he has to live with for the rest of his life. OOh, it is really bad that she poured boiling water on her baby untill it stopped screaming, but I think she is punished enough by havuing to live with that. 
+
+That is why in every trial, in every judgement, if you have the victim no longer present, or able to testify, you have a person who speaks for them. Who reminds us, that yes, the person is looking pretty sad and small and non threatening now, but I am here to speak for those who can no longer be with us, thanks to the persons action. 
+
+You want to read her argument rephrased? 
+
+""Men have no domestic partners to lose. 
+
+Men have no partens to lose. 
+
+Men have no children to lose. 
+
+Men no longer have homes to flee from. 
+
+Men will never be able to know an other home. 
+
+Men can not be refugees from Conflicts, and if they are their victims, most would consider it business as usual. 
+
+Men can never see their children anymore, much less raise them. 
+
+Men no longer suffer from crime or domestic violence. 
+
+Because the men no longer exist. 
+
+they have ceased to exist when they get drafted, often against their will, in conflicts trhat are not their own to fight. 
+
+The have been drafted, because their own countries determines, that the value of a mans life is less then the value of a womans life, and we have allways send our men to war. 
+
+They have ceased to exist when they were moved out of womans sight. 
+
+They have ceased to exist when politics considers them expendable. 
+
+They have ceased to exist when they are dead, hoping to their last breath that maybe, just maybe, their death could have some meaning, and maybe the fact that because of them some man woman or child continued to live could give their senseless death some meaning. 
+
+Men have ceased to exist, because their voices no longer can be heard. Because they are not wanted. 
+
+It is very easy to focus on women. Especially, if you never had the human kindness in your heart for an other stranger. 
+
+They say in every man is a warrior waiting to be awakened. 
+
+I say it differently. In every man, there is a little boy, sared out of his wits. That gets hit end scolded every time he wants to say something, so he retreats in his shell more. he can not find comfort in men, because the other men are scared little boys as well that do not want to show it, for fear of being hit more. 
+So this young boy has ceased to exist. But while the young bo has no voice, and can't voice his feelings, he can imagne, very vividly, what it is to go to war. Because in war, the little boy exists. 
+
+Because he is expendable. If he refuses to go to war, many countries viciously punish the little boy for not following orders. They lock him up because he refuses to kill other little boys. 
+
+But the truth is, no matter how well hidden the luittle boy is, the little boy continues to be there. And even if people justify it thousands of times for the little boy, the little boy knows one thing in the depth of his heart. He is expendable, as soon as he picks up a weapon. Life will go on. His girlfriend will find an othjer one, his parents will mourn him a bit, his children will grow up seeing a photo on their desks, if anything. 
+
+But i he dies, all he will ever be, ever can be, or ever hoped and wanted to be ends that moment. because the second he picked up a weapon, he became expendable. 
+
+So he knows that the little boys that his superior told him are just as scared as he is, but they are just as expendable. And just by an accident of birth, they could have lived his life. he could have lived theirs. 
+
+So the little boys, that tossed their lives away because politicians said the war had to be fought, because they were punished if they did not show up to the military, because they were ""whipped into discipline"", that never had a voice or someone that listened to them, that were expendable from the day they were born, hear that a woman says that women are the real losers of war. 
+
+Sure they are. 
+
+Because the little boys have ceased to exist once they died. 
+To be a victim, you need to be alive. 
+And it is just so convenient to forget all that. 
+
+And it is very hard to really get what goes through the mind of a black woman that has to flee a warzone with her children in her hand, nd the clothes on her back, especially if you are a white older woman that was never even been close to a country where hunger was a problem. 
+
+But for a man, it is very easy to imagine being dead. Because we want to live. And most of us have experienced, or will experience, being in a situation where we could be forced in the military. because, we are expendable. How can something expendable suffer in war?
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d3at5sz
+67,thing_t1_d6kgxc4,rmandraque,1,2016-08-17T00:21:00+00:00,root,"Women lose their husbands, their fathers, their sons in combat.
+
+fucking idiotic thing to say....
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jsjd4/hillary_said_in_1998_that_women_were_the_primary/d6kgxc4
+68,thing_t1_d3b0lbh,down42roads,6,2016-05-19T01:07:44+00:00,d3b0lbh,"Bottom right is Phil Robertson from Duck Dynasty. I can't find anything to indicate he should be on that picture.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jzzp6/a_collage_of_sexual_predators_and_perverts_is/d3b0lbh
+69,thing_t1_d3b0tqs,GrinningJest3r,5,2016-05-19T01:13:42+00:00,d3b0tqs,"His was a little weird due to how the age of consent law in Louisiana worked back in the 60s. He avoided conviction of statutory rape by marrying Kay when she was 16 and he was 20.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jzzp6/a_collage_of_sexual_predators_and_perverts_is/d3b0tqs
+70,thing_t1_d3b10p5,down42roads,4,2016-05-19T01:18:36+00:00,d3b10p5,"He avoided conviction of statutory rape by marrying Kay when she was 16 and he was 20.
+
+See, I can't find any legitimate source stating that he ever faced any kind of criminal charges at that time.
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jzzp6/a_collage_of_sexual_predators_and_perverts_is/d3b10p5
+71,thing_t1_d3b1i9k,GrinningJest3r,3,2016-05-19T01:30:49+00:00,root,"You're right. Digging into Kay more specifically, it seems like there's no verified date of birth for her, so the articles that say he married her to avoid SR allegations could be completely wrong. I never really cared about the Duck Dynasty or their personal lives at all, but that's why I posted this here. I figured if there was anything substantial that I couldn't find for the people pictured, you'd find it. If there wasn't anything there, you'd tell me.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jzzp6/a_collage_of_sexual_predators_and_perverts_is/d3b1i9k
+72,thing_t1_d3b72f9,Aerik,2,2016-05-19T03:55:47+00:00,root,"it's because of his disturbing rant in which he discussed the rape of an entire family...
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jzzp6/a_collage_of_sexual_predators_and_perverts_is/d3b72f9
+73,thing_t1_d3bwouf,Arthur_Edens,4,2016-05-19T18:23:29+00:00,d3bwouf,"EDIT: Formatting. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jzzp6/a_collage_of_sexual_predators_and_perverts_is/d3bwouf
+74,thing_t1_d3c5ox1,GrinningJest3r,2,2016-05-19T21:43:17+00:00,root,"Holy fuck. This is what I love about the internet. Thank you.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jzzp6/a_collage_of_sexual_predators_and_perverts_is/d3c5ox1
+75,thing_t1_d3b0eif,darkangelx,1,2016-05-19T01:02:49+00:00,d3b0eif,"Some of them are known pedo/convicted felons of assault of a child.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jzzp6/a_collage_of_sexual_predators_and_perverts_is/d3b0eif
+76,thing_t1_d3b0k76,GrinningJest3r,3,2016-05-19T01:06:55+00:00,root,"I know, like I said I've identified some of them. I'm just curious if all of them are specifically because one of my friends shared the post, then got asked if he fact-checked. Obviously he did not. It made me curious whether every single one was, if only so that I can go back and say ""Fact checked. Here's everyone.""
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4jzzp6/a_collage_of_sexual_predators_and_perverts_is/d3b0k76
+77,thing_t1_d3n2d5f,iwasinmybunk,20,2016-05-28T16:21:32+00:00,root,"this is now and always has been a non-story. many people hear stories passed down by parents, grandparents and great grandparents and take them as gospel absent documentation or proof. theres a few links below and all of them agree that she never used it to gain any standing, gain a job or other benefits. the only time she referenced it was to locate other people with tribal backgrounds and to enter some recipes in a cookbook. the bottom line is she might have cherokee background in her family line but its insufficient to claim the legal status of part-native american, or maybe her distant relatives have it wrong. its all irrelevant and its a complete non issue.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3n2d5f
+78,thing_t1_d3n3ves,FuzzyLoveRabbit,21,2016-05-28T17:06:27+00:00,d3n3ves,"But there's not evidence that she doesn't either, and it's gonna get real awkward, real fast if we start denying people their heritage based on lack of evidence and general doubt.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3n3ves
+79,thing_t1_d3n7a14,adidasbdd,17,2016-05-28T18:48:06+00:00,root,"Welcome to the 2016 transgender bathroom debate. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3n7a14
+80,thing_t1_d3ngvty,porkchop_d_clown,1,2016-05-28T23:37:41+00:00,d3ngvty,"If the Atlantic could trace her ancestry back through 5 generations and found that, at most, she might be 1/32 native american, that's pretty good evidence that she's not.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3ngvty
+81,thing_t1_d3nr139,FuzzyLoveRabbit,10,2016-05-29T05:08:11+00:00,d3nr139,"If anything, that sounds like there's evidence she might be 1/32 native american.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3nr139
+82,thing_t1_d3nx3sx,porkchop_d_clown,0,2016-05-29T11:05:01+00:00,root,"Except that under the rules of the Cherokee nation that is not enough to claim a connection.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3nx3sx
+83,thing_t1_d3necum,TheGreenJedi,5,2016-05-28T22:16:03+00:00,d3necum,"If you believe her family story, then her grandmother learned some native American recipes from her family members, and the most likely lied (or was herself misinformed) about the amount of native american blood she had.
+
+The truth is it makes no difference, and yes Maddie should have just skipped over it... unless she's got inside track information that Warren is VP pick
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3necum
+84,thing_t1_d3nn5ib,staiano,2,2016-05-29T02:57:38+00:00,d3nn5ib,"that Warren is VP pick
+
+For Joe Biden.
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3nn5ib
+85,thing_t1_d3nnr4e,TheGreenJedi,1,2016-05-29T03:16:23+00:00,root,"She's still being floated around. And she must have been courted by both of them since she refused to endorse either of them fully
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3nnr4e
+86,thing_t1_d3mxl9n,johnnynutman,17,2016-05-28T13:42:38+00:00,root,"Yeah, she was wrong. Even Warren is trying to move past this and Maddow is doing a massive disservice by bringing it up; I actually can't get over how dumb that was to do a segment on it. This is why they call MSNBC the Fox News of the Left.
+
+<a href=""http://www.theatlantic.com/politics/archive/2012/05/is-elizabeth-warren-native-american-or-what/257415/"" rel=""nofollow"">The Atlantic covered it, finding that there wasn't evidence to prove that she was Native American, but that it also had no impact in her career.</a>
+
+<a href=""https://en.wikipedia.org/wiki/Elizabeth_Warren#U.S._Senate"" rel=""nofollow"">A simplified timeline via wikipedia.</a>
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3mxl9n
+87,thing_t1_d3qrprb,gaijin42,3,2016-05-31T19:29:20+00:00,root,"I'm actually personally, in a very similar situation to Warren.
+
+We know for a fact great grandma was a single teenage mom. ""Great grandpa"" came back from some war somewhere, wounded. Town said ""She needs a husband. Kid needs a dad. You need a wife."". Boom. it was done.
+
+My grandpa actually lived his whole life without knowing, until the very end of his life, he was scrapbooking, and noticed his birth certificate had the ""wrong"" date on it, and it was before the date on his parent's marriage certificate. Due to the scandal of illegitimacy and her virtue etc, it was all hushed up.
+
+My grandma knew way before actually, because my ""great grandpa"" and his brothers had a seizure issue, which my grandma was worried about her husband having, or getting passed on to her kids. One of my great-great aunts came to her one day and told her she didn't need to worry about it, and why. 
+
+Anyway, there are two likely candidates for who I'm descended from, both farmhands who were known to be a little too close with great grandma. So, either a german guy, or the native guy. It would put me at 1/8-16th native.
+
+In retrospect, its pretty obvious, my grandpa and his kids look nothing like his brothers or their kids. My family all has a very stereotypical ""indian"" nose.  I personally can't get tested for this, because it would come through my mom, and the ancestry tests cant switch chromosomes like that. But some of my cousins have talked about it. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3qrprb
+88,thing_t1_d3nlfey,smacksaw,1,2016-05-29T02:03:12+00:00,d3nlfey,"Why doesn't she just do the DNA test thing?
+
+My mom and uncle did it. It's pretty cool. It tells you exactly what you are. I'm 1% black! Maybe I should campaign on that...
+
+She should just do it and find out once and for all.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3nlfey
+89,thing_t1_d3ntdq7,RicknMorty93,1,2016-05-29T06:59:53+00:00,d3ntdq7,"Maybe she did and chose not to release it yet. Or maybe the results were negative.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3ntdq7
+90,thing_t1_d3wo3mv,JurijFedorov,1,2016-06-05T09:11:07+00:00,root,"I bet you she has such a test. Any politician would have done it under that fire. She hasn't released it because it probably didn't show what she wanted it to show.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3wo3mv
+91,thing_t1_d4dihhv,Whitey-McTrash,1,2016-06-17T20:30:26+00:00,root,"These DNA tests are hugely misrepresented and only provide a small part of the picture. The amount of history they can accurately provide is skeptical at best, as described in the TOS of these companies, and are only as accurate as the data they have in stock, which is very small. You can google the many problems with DNA testing as it is now and why any tests should be taken with a grain of salt.
+
+Since it seems the majority of this generations blood is being stored and genetically profiled now, I would say in a couple generations the testing should be pretty accurate from our lifetime moving forward; everything before will always be assumptions.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d4dihhv
+92,thing_t1_d4xdkyq,QQueenBee,1,2016-07-03T04:57:29+00:00,root,"the dna tests are nowhere near accurate. if you take 5 from 5 different companies you will get 5 very diffferent answers
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d4xdkyq
+93,thing_t1_d3n1f2d,qinosen,1,2016-05-28T15:52:52+00:00,d3n1f2d,"I believe that generally 1/16th is the lowest level of actually being to report/claim a bloodline-minority etc..  whether or not there is a law establishing an exact number, I can't imagine why or who would actually decide that number...
+
+Full blooded -great-great-Grandparent--great-Grandparent(1/2)--Grandparent(1/4)-- Parent(1/8)--You(1/16) 
+(assuming your family did not marry back into the line pushing the fraction up a generation)
+
+Keep in mind that for a lot of folks that relative was already not 100% (heritage of your choosing) because of forced intermarriage/slavery/kidnapping that was a bit more rampant than today.
+
+edit:wording
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3n1f2d
+94,thing_t1_d3n2uq7,ggleblanc,2,2016-05-28T16:36:02+00:00,d3n2uq7,"I'm not sure there's a legal standard for minority benefits, but I suppose some people use the 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3n2uq7
+95,thing_t1_d3nclwx,qinosen,2,2016-05-28T21:25:01+00:00,root,"yeah the one drop rule was never a standard that was going to survive the end of segregation, its a dumb rule that white supremacists cooked up to protect the race.  (I can't believe I'm actually typing this next sentence)... Even the Nazi's only went as far back as Grandparents for identifying Jews to eliminate during the Holocaust, if they went further back there was no such thing as a Pure Aryan. ""...""Aryan Paragraph"" providing for the removal of Jews from various spheres of society. All government employees must show documentation of their ""Aryan"" descent. For the first time, legislation defines who is considered Jewish. Those employees with Jewish parents or grandparents are removed from their posts.""  
+
+I believe it is 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3nclwx
+96,thing_t1_d4xdkdo,QQueenBee,1,2016-07-03T04:56:51+00:00,root,"no legal standard. you can claim anything. its all self-identified when it comes to affirmative action 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d4xdkdo
+97,thing_t1_d3ne6rj,TheGreenJedi,1,2016-05-28T22:10:43+00:00,root,"Right, I believe there was evidence they could find to back up her being 1/32 (which is the same as some chiefs)
+
+But it's still a stupid distraction, he grandparents acted like they were 100% but it turns out they weren't.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3ne6rj
+98,thing_t1_d4asly2,norulers,1,2016-06-15T22:02:18+00:00,d4asly2,"In Massachusetts, they call her Fauxcahontas.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d4asly2
+99,thing_t1_d4xdlfi,QQueenBee,1,2016-07-03T04:58:00+00:00,d4xdlfi,"no, they dont.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d4xdlfi
+100,thing_t1_d4zyl7s,norulers,1,2016-07-05T13:47:10+00:00,root,"Howie Carr does.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d4zyl7s
+101,thing_t1_d3na8cm,TheNumberMuncher,2,2016-05-28T20:15:56+00:00,d3na8cm,"She identifies as part Native American. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3na8cm
+102,thing_t1_d3ne7q9,TheGreenJedi,1,2016-05-28T22:11:33+00:00,d3ne7q9,"She is part Native American, just not as much as she believed when she was working at Harvard years ago.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3ne7q9
+103,thing_t1_d3ngy94,porkchop_d_clown,4,2016-05-28T23:39:51+00:00,d3ngy94,"Do you have some evidence that no one else has been able to find?
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3ngy94
+104,thing_t1_d3nnste,TheGreenJedi,1,2016-05-29T03:17:45+00:00,d3nnste,"Iirc she found evidence that she was 1/32 or 1/64th when this whole garbage came up when she was running for Senate. 
+
+But she admitted the evidence was weak
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3nnste
+105,thing_t1_d3nx5kc,porkchop_d_clown,1,2016-05-29T11:08:16+00:00,d3nx5kc,"Which is too weak a connection for the Cherokee to consider you related.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d3nx5kc
+106,thing_t1_d4xdlt2,QQueenBee,1,2016-07-03T04:58:25+00:00,root,"but not too weak a connection for her to identify as part cherokee!
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4lfrb6/rachel_maddow_says_elisabeth_warren_is_part/d4xdlt2
+107,thing_t1_d3ydlu2,nietzkore,25,2016-06-06T18:31:23+00:00,d3ydlu2,"<a href=""http://www.ibtimes.com/clinton-foundation-donors-got-weapons-deals-hillary-clintons-state-department-1934187"">http://www.ibtimes.com/clinton-foundation-donors-got-weapons-deals-hillary-clintons-state-department-1934187</a>
+
+In the years before Hillary Clinton became secretary of state, the Kingdom of Saudi Arabia contributed at least $10 million to the Clinton Foundation, the philanthropic enterprise she has overseen with her husband, former president Bill Clinton. Just two months before the deal was finalized, Boeing -- the defense contractor that manufactures one of the fighter jets the Saudis were especially keen to acquire, the F-15 -- contributed $900,000 to the Clinton Foundation, according to a company press release.
+
+The Saudi deal was one of dozens of arms sales approved by Hillary Clinton’s State Department that placed weapons in the hands of governments that had also donated money to the Clinton family philanthropic empire, an International Business Times investigation has found.
+
+...
+
+The Clinton-led State Department also authorized $151 billion of separate Pentagon-brokered deals for 16 of the countries that donated to the Clinton Foundation, resulting in a 143 percent increase in completed sales to those nations over the same time frame during the Bush administration. 
+
+...
+
+American defense contractors also donated to the Clinton Foundation while Hillary Clinton was secretary of state and in some cases made personal payments to Bill Clinton for speaking engagements. Such firms and their subsidiaries were listed as contractors in $163 billion worth of Pentagon-negotiated deals that were authorized by the Clinton State Department between 2009 and 2012.
+
+...
+
+In all, governments and corporations involved in the arms deals approved by Clinton’s State Department have delivered between $54 million and $141 million to the Clinton Foundation as well as hundreds of thousands of dollars in payments to the Clinton family, according to foundation and State Department records. The Clinton Foundation publishes only a rough range of individual contributors’ donations, making a more precise accounting impossible.
+
+Other sources:
+
+<a href=""http://www.salon.com/2015/05/31/the_cash_donations_hillary_simply_has_no_answer_for_partner/"">Salon</a>
+
+<a href=""https://www.washingtonpost.com/politics/foreign-governments-gave-millions-to-foundation-while-clinton-was-at-state-dept/2015/02/25/31937c1e-bc3f-11e4-8668-4e7ba8439ca6_story.html"">The Washington Post</a>
+
+<a href=""http://www.politifact.com/punditfact/statements/2015/may/04/joe-scarborough/scarborough-clinton-foundation-broke-its-own-rules/"">PolitiFact</a>
+
+These articles are pulled from public records of Clinton Foundation and our arms deals.
+
+The text of the linked image only states that one event happened, and then the second event happened. It does not say 
+
+Also though, we were doing arms deals with most/all of those countries before that. There was an increase in the dollar amount of the contracts under Clinton, but it may not correlate to the donations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d3ydlu2
+108,thing_t1_d538idn,CaspianX2,1,2016-07-07T19:33:15+00:00,root,"The posts here seem to all point to the same thing - the events claimed in the quote did happen, but there is no indication that there's any causality, and given America's friendly relationship with these countries, plenty to indicate that they would have happened with or without Hillary being involved.
+
+As such, and because no one has really responded to this in the last month, I'm marking it as 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d538idn
+109,thing_t1_d3ys8t1,Albuslux,5,2016-06-07T00:09:46+00:00,d3ys8t1,"I'm not a Hillary fan at all and welcome any solid evidence against her but... Haven't those countries been buying shit from our defense contractors forever?  Isn't that how we make defense contractors happy while we aren't actually at war?  Aren't weapons our largest export?  I really think we make them buy shit they don't need.  I spent time in Saudi in '93 and their F15s just sit there.  Show me some evidence that these Clinton foundations don't use the money like they advertise.  That should be easy.  I welcome somebody that takes money from other countries to do good things and they then buy shit from us they don't need.   IMO, this is weak.  Looks bad on the surface but weak.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d3ys8t1
+110,thing_t1_d3z4hfm,nietzkore,3,2016-06-07T05:38:48+00:00,d3z4hfm,"Aren't weapons our largest export? 
+
+No. Here's our top 10 as of 
+
+What you might possibly be confused by, is that the US is the largest seller (in dollar amount) of weapons compared to all other countries. So although its not our largest export, the US is the largest exporter of arms.
+
+Before and after Clinton's State Department, we still led the world in exports, but we sold far more while she held the office (nearly triple some years).
+
+
+
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d3z4hfm
+111,thing_t1_d40az86,Albuslux,1,2016-06-08T01:55:00+00:00,root,"Right.  Thanks. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d40az86
+112,thing_t1_d3yzt0y,RandInMyVagina,2,2016-06-07T03:11:47+00:00,d3yzt0y,"their F15s just sit there.
+
+Except when they are bombing 
+
+Why not just start selling F-15s to ISIS? Most of the time they would just sit there.
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d3yzt0y
+113,thing_t1_d3z1yts,Albuslux,1,2016-06-07T04:11:36+00:00,d3z1yts,"You missed my point.  I'm not saying we should sell weapons to anybody but that we do and have so the fact that we did some more weapons deals is not surprising and would probably have happened without the Clinton foundation donations.  IMO, the Saudis don't need weapons because we will protect the oil market until we don't need oil or until it's gone.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d3z1yts
+114,thing_t1_d3z4z8x,RandInMyVagina,3,2016-06-07T05:58:08+00:00,d3z4z8x,"but that we do and have
+
+Not anybody, there are lots of restrictions forbidding weapons sales, including to countries under sanction for war crimes, atrocities, and for supporting terrorists; all of which apply to Saudi Arabia. 
+
+There are many dictatorships that US arms dealers are not legally allowed to do business with, who have committed far fewer war crimes and human rights abuses, and who have been less involved in allowing terrorist funding, than Saudi Arabia.
+
+Actually, there is another restriction for American weapons manufacturers, and that is a prohibition against selling weapons to countries that conscript child soldiers. The dictatorship in Yemen was given a special exemption to that law, and that dictatorship is the one the Saudis are trying to return to power, and they are still using conscripted child soldiers. 
+
+we will protect the oil market
+
+Seriously? Less than 10% of Saudi oil is sold to the US, while over 50% of Saudi oil goes to China. China doesn't pay in US dollars so those oil sales don't even effect the world market, the Saudis have refineries, and a nationwide network of gas stations, and they get paid at the pump in local currency. China also builds massive infrastructure projects, like airports, bridges, rail, and ports in Saudi Arabia and the GCC in exchange for Gulf oil. 
+
+Also, Iraq has one of the world's largest oil supplies, and 12 years of sanctions, and almost 6 years of war (including the largest bombing since Vietnam) wasn't exactly 'protecting the oil market'. In fact it completely derailed it, and oil went from being $10-15 a barrel to $150 at the height of the insurgency as one of the largest supplies was taken offline. 
+
+
+
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d3z4z8x
+115,thing_t1_d40b3uv,Albuslux,1,2016-06-08T01:58:03+00:00,root,"So you post a wall of words to argue against my points that we sell arms to Saudi and we protect the oil in the region?  Please continue.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d40b3uv
+116,thing_t1_d40fabj,Albuslux,1,2016-06-08T03:43:15+00:00,root,"So you post a wall of words to argue against my points that we sell arms to Saudi and we protect the oil in the region?  Please continue. Edit: so I re read your post. I get that you are not a Saudi fan, me either, but we have sold arms to them for years before the Clintons left Arkansas.  That's my point. Yes they suck, and we should not have any dealings with them.  But our friendly dealings with Saudi and other kingdoms in the region are about having access to oil in the whole region not just Saudi.  Remember the oil embargo, lines for gas?  Back to the OP, it is an exercise in throwing a lot of stuff at the wall and see what sticks.  
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d40fabj
+117,thing_t1_d3yx9fa,mswilso,0,2016-06-07T02:10:22+00:00,d3yx9fa,"Defense contractors, yes. Directly from the State Department? No.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d3yx9fa
+118,thing_t1_d3z1rtx,Albuslux,3,2016-06-07T04:05:42+00:00,root,"I missed your point.  
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d3z1rtx
+119,thing_t1_d401dn9,HeTalksToComputers,1,2016-06-07T21:57:26+00:00,root,"Post hoc, ergo propter hoc
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d401dn9
+120,thing_t1_d3yyblh,darkangelx,1,2016-06-07T02:35:28+00:00,root,"I think its funny people dont know this.  Yes its 100% fact.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4mtmre/meme_circulated_by_breitbart_hillary_clinton/d3yyblh
+121,thing_t1_d46uqnl,acrane55,23,2016-06-13T03:14:10+00:00,d46uqnl,"Are you misremembering a video? According to Snopes, he never said it: 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d46uqnl
+122,thing_t1_d46xu4a,jakerose632,5,2016-06-13T04:44:19+00:00,d46xu4a,"Positive. Snopes along with every other article ""debunking"" the claims that Trump said this are merely debunking the  rumor that he said it in 
+
+<em>Edit to give a better psychological perspective on this</em>
+
+There's a phenomenon we leisurely refer to as UFO Sighting Syndrome; where people in a group, at the same place and same time, witnessing a bright light moving rapidly through the night sky can legitimately convince themselves that they saw a UFO to the point they would pass a lie detector test when questioned about it. This is not the same thing.
+
+Do you know what the odds are that a group of people, who saw and/or heard something that didn't actually happen - that 
+
+These people all collectively flocked to the same place, looking for the same thing - the video they saw.
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d46xu4a
+123,thing_t1_d47f43q,ThrowingChicken,3,2016-06-13T15:47:29+00:00,d47f43q,"Could it be possible that there was a video with Trump photos or interviews, where a narrator quoted this fake People Magazine quote, and over time people just remember Trump saying it?  If it got passed around as 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d47f43q
+124,thing_t1_d47otl8,jakerose632,2,2016-06-13T19:11:48+00:00,root,"The thing about that which I admittedly should have mentioned earlier was that the 
+
+Again, we can't rule out that what you're saying is still technically possible, but the sheer odds of all these people remembering it the same way (as a video, with no discrepancies, arguments or objections about 
+
+<strong><em>-or-</em></strong>
+
+...it's just somebodys PR team flagging a YouTube video. Something that happens 
+
+It's just hard not to pay attention to all these coincidences, you know?
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d47otl8
+125,thing_t1_d66mfci,Stoppels,1,2016-08-06T13:07:34+00:00,root,"Could it be possible that there was a video with Trump photos or interviews, where a narrator quoted this fake People Magazine quote, and over time people just remember Trump saying it? If it got passed around as this meme[1]  , would it really be that hard for it to be remembered as a video by some people? Honestly it does seem somewhat familiar to me, but I can't remember if I saw it in a video or just read it.
+
+No. I have never seen that meme before, until I started looking for the video today. That meme seems created or popularized by fact-checking websites and rightwing websites with a similar article.
+
+It was a video. I don't think it was the Oprah video. In the Oprah video, Trump sits at the right of the camera and faces the left (towards Oprah / people). I recall that interview was the other way around (camera on the right). But since videos are often and easily mirrored in a try to prevent YouTube's automated detection, this could be irrelevant.
+
+It's fucking outrageous how this is possible. I'm bet YouTube that does not verify DMCA's after they oblige to them, unless the uploader complains. It's unbe-fucking-lievable how something like this can be wiped off the internet.
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d66mfci
+126,thing_t1_d470t1y,zenskeptical,9,2016-06-13T06:38:03+00:00,d470t1y,"What do you think about the bernstein bears controversy?
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d470t1y
+127,thing_t1_d47r7qh,Mr_Incredible_PhD,2,2016-06-13T20:01:05+00:00,d47r7qh,"Berenstain
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d47r7qh
+128,thing_t1_d47ypqd,zenskeptical,1,2016-06-13T22:48:55+00:00,d47ypqd,"It's bernstein ?
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d47ypqd
+129,thing_t1_d4802jg,Mr_Incredible_PhD,3,2016-06-13T23:22:06+00:00,root,"Berenstain
+
+Hate to break it to ya bud...
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d4802jg
+130,thing_t1_d47iapj,jajajajaj,1,2016-06-13T16:56:51+00:00,root,"I wouldn't be surprised, either way.  Creating false memories in people is normal. It's entirely accidentally the source of many false convictions. People remember what they want to remember, even if only because someone else wants them to remember it.
+
+That being said, it's likely as not that they remember it because it DID happen, but in any conversation where the topic comes up before the recollection, it's slightly suspect, just because it seems like something he would say, so it's easy to imagine. Regardless of whether he said it, people believe it's true so imagining he said it is very easy next step.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d47iapj
+131,thing_t1_d5qede5,the-globetrotter,1,2016-07-25T19:39:49+00:00,root,"I know I saw it too, because I remember the intonation of his voice when he was saying it, and I thought, how in the world can people watch this and feel he's worth a vote? I don't read meme's usually, especially in this campaign. I only use videos of what he says, and I cannot believe I didn't save that video--I just thought for sure it would be so rampant. It should be possible to get again. Surely there is some type of backup of these interviews available at a library or university or something.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d5qede5
+132,thing_t1_d58qfgy,entheogen06,1,2016-07-12T02:45:27+00:00,d58qfgy,"these MEMES have taken the quote and mis-appropriated it in a vane attempt to squash this.  Im gonna find it.  its real.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d58qfgy
+133,thing_t1_d5ldq01,goldtoned,1,2016-07-21T19:44:31+00:00,root,"I forwarded the video to a friend on 6/11. It has been edited since then; the quote removed. Weird 
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d5ldq01
+134,thing_t1_d4po0pz,Carem421,4,2016-06-27T09:45:56+00:00,d4po0pz,"I absolutely without an inkling of doubt saw the video!! I thought to myself I can't wait till it's plastered everywhere on tv.  I had a conversation with my Uber driver 2wks ago, discussing all things insane about Trump. When I mentioned the video she responded with, ""you saw that video?"" I'm just now realizing why she asked  me that with a sort of surprised but affirming reaction..it's bc it's gone, no where to be found!  Itellecual property laws is the reason why these things disappear. Everyone, the next time a controversial damaging video appears, weather you're for or against, we need to find away to record it! Use someone else's phone to video the video if you have to! We then can repost it, even if it's only for a few days  before it gets pulled, we  will still have proof!
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d4po0pz
+135,thing_t1_d4pp252,Carem421,1,2016-06-27T10:45:50+00:00,root,"I can't believe how naively believed that things can't disappear from the internet. So Intellectual Property/copyright laws, you can look it up and do you own research.  Have you never seen on say Facebook or something, where it states This link has been removed, the user may not be authorized to share..blah blah. That's the laws mentioned above in action. An example comes to mind, lots of Prince videos were blocked for a long time, the video clip with him, Tim Petty and others paying a tribute Beatles song My Guitar Genty Weeps was recorded from the 2004 Rock n Roll hall of fame and televised. Now, it  has only recently been available, with many other previously unauthorized content BECAUSE of ,..I think you might guess...yep copyright/intellectually property laws. Meaning not even the tv station on which it aired can even have it archived for viewing, basically God wouldn't be able to find it on the internet especially if Web Sheriff or some comparable service is used to enforce these laws.
+I used this analogy in attempt to take emotionally charged political aspects out of the equation in hopes of maybe just maybe, it will get through to some and in understanding why it is more than possible for the Trump video and others to seem like they are wiped from the face off the earth.
+Sorry if that was to lengthy, tried to keep it simple
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d4pp252
+136,thing_t1_d47h96h,Provokateur,7,2016-06-13T16:34:13+00:00,d47h96h,"You're right: Either there's a global internet conspiracy between all the most powerful entities on the internet, working together to protect Donald Trump, or you're remembering wrong.
+
+This sort of suggestion isn't unusual at all. There's a common hoax (as demonstrated by the snopes article) claiming that Donald Trump said this exact quote in a magazine interview. A small percent of people are remembering it as if he said it in a televised interview.
+
+It doesn't take a ""psychoanalyst"" to figure this out.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d47h96h
+137,thing_t1_d58qj2c,entheogen06,1,2016-07-12T02:48:10+00:00,root,"the MEMEs were created to throw shade on this and make it seem fake.  there was no People interview, i saw a TV interview of it.  Never read it until the MEME.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d58qj2c
+138,thing_t1_d47m6x2,IBitchSLAPYourASS,3,2016-06-13T18:18:29+00:00,root,"I faintly remember seeing it in a video. But when the whole debunking came around then I thought I was wrong. Seeing that other people remember a video of it makes me question everything. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d47m6x2
+139,thing_t1_d4l3592,entheogen06,3,2016-06-23T18:00:09+00:00,root,"i remember this too.  i saw the video and shared it on FB.  it has been systematically eliminated from youtube because it is damning.  SOMEONE must have archived this video.  it does exist.  dont fall for this mandela effect BS.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d4l3592
+140,thing_t1_d58qdo6,entheogen06,3,2016-07-12T02:44:03+00:00,root,"the video was maybe 10 mins max.  it was mid 90s.  not a recognizable interviewer.  maybe US weekly, or USA network?  i believe it was a female and she asked him some random hypotheticals about being president.  and he let slide that he'd run as a repub because theyre too dumb to get it.  i know this video is out there, Please someone PM a link
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d58qdo6
+141,thing_t1_d47ra28,CaspianX2,2,2016-06-13T20:02:23+00:00,d47ra28,"Okay, if you're claiming that the source of the purported quote is misattributed, can you give any leads on where it 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d47ra28
+142,thing_t1_d6x588e,Randometer2,1,2016-08-26T05:05:50+00:00,root,"It came from an Oprah TV interview. I remember seeing it many times when it was circulating on Facebook.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d6x588e
+143,thing_t1_d5ow23j,sjp114,1,2016-07-24T17:03:07+00:00,root,"There was a video. It was in the Oprah interview from 1988, but you're right. They have now chopped up the video to edit out that part. I have been searching for weeks trying to find the uncut full interview. It no longer exists. Since Oprah and Donald are besties, I assume that has something to do with it. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d5ow23j
+144,thing_t1_d5y6agd,Sunflowers71,1,2016-07-31T10:05:47+00:00,root,"Yes !  I saw the same video and when I went to search for it this morning to prove for a friend- it's GONE!  Wth!  How is this even legal????  How can a video just go missing!??!
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d5y6agd
+145,thing_t1_d66md00,Stoppels,1,2016-08-06T13:04:37+00:00,root,"What the fuck, I can't find it anymore either! Next time I see shit like this, I'm downloading the videos. :s
+
+It wasn't some dumbass magazine either, it was a video interview.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d66md00
+146,thing_t1_d6e35y0,not_today_system,1,2016-08-12T03:23:30+00:00,root,"I'm late to this. Anything change 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d6e35y0
+147,thing_t1_d46wt32,thug_life4,5,2016-06-13T04:11:25+00:00,d46wt32,"he never said that. take your meds.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d46wt32
+148,thing_t1_d58qe5m,entheogen06,3,2016-07-12T02:44:25+00:00,d58qe5m,"he did i watched it several times
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d58qe5m
+149,thing_t1_d58t0pv,thug_life4,1,2016-07-12T04:01:32+00:00,d58t0pv,"lol ok, feel free to share it. looks like you are off your meds too, responding to this one month old comment that for some reason is at -5 despite being factually correct.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d58t0pv
+150,thing_t1_d5beo09,entheogen06,3,2016-07-14T01:43:31+00:00,d5beo09,"""take your meds"" is derogatory, Trump-style, speech.  hence your low rating.  I am keeping this thread active because I really want to find the vid, because I saw it bro.  it's real.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d5beo09
+151,thing_t1_d5bvzbs,thug_life4,1,2016-07-14T13:12:58+00:00,d5bvzbs,"no, its not. keep crying about it though psycho.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d5bvzbs
+152,thing_t1_d5lps52,sanisupaman,1,2016-07-22T00:34:44+00:00,d5lps52,"I've seen it too. Lord knows it. (I win)
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d5lps52
+153,thing_t1_d5lqgd9,thug_life4,1,2016-07-22T00:52:56+00:00,d5lqgd9,"no, you haven't. if it existed it would be here.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d5lqgd9
+154,thing_t1_d6o2la7,tesss_yesss,1,2016-08-19T14:26:55+00:00,d6o2la7,"seems like you're included in the ""dumbest group of voters in the country"" who's stupid enough to support Trump. Oh, and in case you were wondering, I'm ""taking my meds,"" not that it's any of your god damn business.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d6o2la7
+155,thing_t1_d6o2xzt,thug_life4,0,2016-08-19T14:34:55+00:00,d6o2xzt,"apparently you aren't, responding to this comment from a month ago. someone let you out of the psych ward too early.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d6o2xzt
+156,thing_t1_d6x8t4b,Randometer2,1,2016-08-26T07:43:46+00:00,d6x8t4b,"Making light of mental health issues tells us all we need to know about you.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4nt6iw/donald_trump_republicans_are_dumb_why_did_this/d6x8t4b
+157,thing_t1_d6lo1e1,Peopleschamp305,15,2016-08-17T20:33:13+00:00,root,"I work for an insurance company, and honestly these numbers aren't that out of the ordinary, although they must live in a state that is extra expensive, for a plan that poor where I am the premium for a family would be about half that. Either way, the ACA (obamacare) did a lot of things right, but it absolutely isn't a perfect system and people on the left really aren't always crazy about it either. 
+
+One of the major criticisms is that it works extremely well for those that are very low income, but above the Medicaid threshold, has no major impact on those getting insurance from a large business owner, and hurts those middle income and small business owners. Honestly a smart move for these employers would be to move to a defined contribution structure, where instead of buying insurance for employees, you provide a fixed dollar amount to put towards premiums bought on the marketplace. That would help alleviate the exorbitant premiums you're seeing in this example, as well as help keep costs controlled as you control the amount that any given employer is spending on these costs. That all said, it still wouldn't help a family if their employers don't want to provide anything to help, although it might be safe to assume in those situations, a person would be eligible for some tax credits or rebates. 
+
+All that is a long way to say that the context here is pretty accurate and that people do have some fairly legitimate complaints about the system, but that what this doesn't show is the other side of all the uninsured who now have coverage and won't be bankrupted by even a minor illness 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4y75ue/is_this_obamacare_post_being_misrepresented/d6lo1e1
+158,thing_t1_d6lmww9,qinosen,6,2016-08-17T20:10:50+00:00,root,"well without more info, its misleading whichever way you choose to look at it.  The top plan is similar to 
+
+Short version, yeah the post is likely legit but without more facts it just as well might be a fact in a vacuum... no context no factchecking
+
+Not to rehash the whole ACA/Obamacare GOP vs Dems headache but the way the law works it only allows 4 major groups as seen 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4y75ue/is_this_obamacare_post_being_misrepresented/d6lmww9
+159,thing_t1_d6m1zhc,TheCavis,5,2016-08-18T01:58:41+00:00,root,"Based on the ""OH"" in the middle of the plan names, I'm guessing they're shopping in Ohio. Based off her LinkedIn, she's in the Columbus area, so I'll use zip code 43201. It sounds like she has grown kids and someone else in the house (I'll call husband), so let's put 65 and 60 years old. And they both smoke because why not. I put the household income at $100k so they wouldn't get any subsidies.
+
+If I use the 
+
+So, it's in the right ballpark, especially since we don't have all the pertinent details to exactly recreate the options. 
+
+On the other hand, I am thoroughly and completely skeptical on that Aetna plan for two older individuals ever coming to $258 a month. Based on personal experience shopping pre-Obamacare, that sounds like a good price for a high deductible 80/20 plan with no out-of-pocket maximum. 
+
+Summary - Unverifiable in general without more details. Plausible for the screenshot prices, but skepticism warranted on older plans. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4y75ue/is_this_obamacare_post_being_misrepresented/d6m1zhc
+160,thing_t1_d6lt1qk,CaspianX2,1,2016-08-17T22:18:49+00:00,root,"What state is this in?
+
+How many insurance providers did the poster look into before deciding  what the ""best"" plan is?
+
+What is included on both plans?
+
+At what datea were these taken? 
+
+What's this person's income level? 
+
+There's so much information missing here that it can't be anything 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4y75ue/is_this_obamacare_post_being_misrepresented/d6lt1qk
+161,thing_t1_d6madbj,bbakks,1,2016-08-18T06:16:02+00:00,root,"One thing to note is that plans vary dramatically by state. I'm paying $1,185/mo for a gold plan for me, my wife, and four kids. There is a $2,500 deductible and no deductible for office visits.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4y75ue/is_this_obamacare_post_being_misrepresented/d6madbj
+162,thing_t1_d6l37zs,luvs2spooge187,1,2016-08-17T13:34:17+00:00,root,"Awesome job. Very thorough. I'm glad you talked about Zundel a bit. His role in the free speech vs total asshole debate is important to note.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4y3saf/holocaust_denial_a_refutation_not_a_defense_has/d6l37zs
+163,thing_t1_d490m3e,CaspianX2,19,2016-06-14T17:39:37+00:00,d490m3e,"Okay, we really do encourage posters not to post lists - it makes it impossible to give it a flair, given that it's almost always a mixed bag. However, going across this regardless:
+
+Before Obama there was virtually no outlandish presence of Islam in America.
+
+It's uncertain what the author considers an ""outlandish"" presence (though I can guess), but the Muslim population in the US in 2007 was an estimated 2.35 Million in 2007, before Obama was elected, 
+
+Comparatively, Pew 
+
+All of a sudden, Islam is taught in schools.
+
+There are no laws requiring this, and while there are undoubtedly college courses studying religion that include Islam, that's not really what the author is implying.
+
+Christianity and the bible are banned in schools.
+
+The first amendment of the US constitution forbids government-backed institutions from respecting 
+
+Also, private schools can and do teach Christian doctrine and the bible all they want.
+
+All of a sudden we must allow prayer rugs everywhere and allow for Islamic prayer in schools, airports and businesses.
+
+I don't know if the law has specifically made allowances for this practice, but it again seems in keeping with the first amendment, which allows anyone to practice their religion as they see fit.
+
+All of a sudden we must stop serving pork in prisons.
+
+There's no law I know of forbidding serving of pork in prisons. However, there are laws in 
+
+All of a sudden we are inundated with law suits by Muslims who are offended by American culture.
+
+This is so vague it could mean anything. Also, it deserves mention that in America, you can sue anyone for 
+
+All of a sudden we must allow burkas to be worn everywhere even though you have no idea who or what is covered up under them.
+
+Must allow? There have never been any laws against them. Again, freedom of religion allows people to wear religious garb. And private businesses reserve the right to refuse service to anyone. Employers are forbidden from banning employees from wearing religious garb (again, first amendment), unless it interferes with their job. Also, the case of Florida woman 
+
+All of a sudden Muslims are suing employers and refusing to do their jobs if they personally deem it conflicts with Sharia Law.
+
+Again, anyone can sue anyone over anything. Doesn't mean they'll win, and it certainly doesn't make it Obama's fault.
+
+All of a sudden the Attorney General of the United States vows to prosecute anyone who engages in ""anti-Muslim speech"".
+
+This appears to be true, though Attorney General Loretta Lynch 
+
+All of a sudden, Jihadists who engage in terrorism and openly admit they acted in the name of Islam and ISIS, are emphatically declared they are NOT Islamic by our leaders and/or their actions are determined NOT to be terrorism, but other nebulous terms like 'workplace violence.""
+
+[Citation Needed]?
+
+All of a sudden, it becomes Policy that Secular Middle East dictators that were benign or friendly to the West, must be replaced by Islamists and the Muslim Brotherhood.
+
+What is this in reference to, exactly?
+
+All of a sudden, our troops are withdrawn from Iraq and the middle east, giving rise to ISIS.
+
+The government of Iraq that 
+
+All of a sudden, America has reduced its nuclear stockpiles to 1950 levels,
+
+According to 
+
+Also, as an aside, just how many nuclear weapons does our country need? 
+
+as Obama's stated goal of a nuke-free America by the time he leaves office continues uninterrupted.
+
+Obama wasn't advocating for a nuclear-free America. He was advocating for a 
+
+All of a sudden, a deal with Iran must be made at any cost, with a pathway to nuclear weapons and HUNDREDS of BILLIONS of dollars handed over to fund their programs.
+
+This is particularly ridiculous, as the Iran deal was specifically made to ensure that Iran 
+
+All of a sudden America APOLOGIZES to Muslim states and sponsors of terror worldwide for acts of aggression, war and sabotage THEY perpetrate against our soldiers.
+
+For all of the claims of Obama ""apologizing"", none of them have ever proved to be anything more than wild exaggeration.
+
+... I'll probably have to check the rest of these later, but so far they are nearly all completely bull.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d490m3e
+164,thing_t1_d4a4hzy,xiefeilaga,5,2016-06-15T13:27:18+00:00,root,"All of a sudden Muslims are suing employers and refusing to do their jobs if they personally deem it conflicts with Sharia Law.
+
+This one really stands out to me, because this email is probably circulating among a lot of the same people who were praying for Kim Davis. 
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d4a4hzy
+165,thing_t1_d49u0id,jaredwards,5,2016-06-15T05:25:05+00:00,d49u0id,"So nicely done, I can't thank you enough. I know this wasn't an easy task but I greatly appreciate your follow up. I will pass your words along and hope people take the time to read your diligence. Seriously thank you! 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d49u0id
+166,thing_t1_d53am3p,CaspianX2,2,2016-07-07T20:14:20+00:00,root,"The follow-up you wanted:
+
+All of a sudden, the American Navy is diminished to 1917 Pre-World War I levels of only 300 ships. The Army is at pre-1940 levels. The Air Force scraps 500 planes and planned to retire the use of the A-10 Thunderbolt close air support fighter. A further draw down of another 40,000 military personnel is in progress.
+
+All of a sudden half of our aircraft carriers are recalled for maintenance by Obama rendering the Atlantic unguarded, NONE are in the Middle East.
+
+As Obama famously noted in one of the presidential debates with Mitt Romney, America also has fewer horseback cavalrymen than we did a hundred years ago. That doesn't make us less secure. America uses different weapons with different capabilities now, and just because they're fewer in number doesn't make them weaker or less capable of defending us.
+
+All of a sudden Obama has to empty Guantanamo Bay of captured Jihadists and let them loose in Jihad-friendly Islamic states. He demands to close the facility.
+
+Obama demands that the facility be closed and that its inmates be 
+
+All of a sudden America will negotiate with terrorists and trade FIVE Taliban commanders for a deserter and Jihad sympathizer.
+
+This is undoubtedly in reference to Bowe Bergdahl. Bergdahl was a deserter, but hel never declared war on the US, never allied himself with any enemies of the US, and never gave aid to enemies of the US.
+
+However, Bergdahl is a US citizen, and as such the punishment for his misdeeds is to be determined by our own military, not a foreign enemy.
+
+Also, the five Taliban that Bergdahl was traded for were 
+
+Also, it wasn't ""terrorists"" America negotiated with, it was the Qatar government.
+
+So this claim stretches the truth in parts, and minces words to make it seem worse than it really is.
+
+All of a sudden there is no money for American poor, disabled veterans, jobless Americans, hungry Americans, or displaced Americans but there is endless money for Obama's ""Syrian refugee"" resettlement programs.
+
+It's not like Obama is the one trying to put the brakes on welfare programs and the like. And Syrian refugees are expected to 
+
+All of sudden there is an ammunition shortage in the USA.
+
+[citation needed]
+
+All of a sudden, the most important thing for Obama to do after a mass shooting by two Jihadists, is disarm American Citizens.
+
+We have had numerous mass shootings perpetrated 
+
+It also bears mention that without proper background checks, one need not even be a US citizen to purchase guns in America.
+
+All of a sudden, the President of the United States cannot attend the Christian Funerals of a Supreme Court Justice and a former First Lady because of previous (seemingly unimportant) commitments.
+
+As 
+
+All of a sudden, I’m sick to my stomach. [...]
+
+With all this partisan bias, stretching the facts, and complete fabrication, it's no wonder. If I spent so much time and effort telling falsehoods, I'd probably feel sick about myself too.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d53am3p
+167,thing_t1_d49cnvy,jaredwards,2,2016-06-14T21:34:18+00:00,root,"THANK YOU! Thanks for the info about the subreddit protocol and info about my post. Can't wait to dig deeper into your reply!
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d49cnvy
+168,thing_t1_d49a8ot,T1mac,1,2016-06-14T20:50:15+00:00,root,"Nicely done. 
+
+Once again the CONservative right wing Evangelicals are playing the oppressed Christian minority card, when they're neither oppressed nor a minority. It's surprising they forgot to mention the War on Christmas (maybe we'll have to wait until the fall for that one). 
+
+The fact that they all believe that Obama is an Anti-American Kenyan Muslim Communist dictator has clouded their ability to reason. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d49a8ot
+169,thing_t1_d49agmj,T1mac,1,2016-06-14T20:52:47+00:00,root,"Nicely done. 
+
+Once again the CONservative right wing Evangelicals are playing the oppressed Christian minority card, when they're neither oppressed nor a minority. It's surprising they forgot to mention the War on Christmas (maybe we'll have to wait until the fall for that one). 
+
+The fact that they all believe that Obama is an Anti-American Kenyan Muslim Communist dictator has clouded their ability to reason. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d49agmj
+170,thing_t1_d49a9r0,T1mac,2,2016-06-14T20:50:37+00:00,root,"Nicely done. 
+
+Once again the CONservative right wing Evangelicals are playing the oppressed Christian minority card, when they're neither oppressed nor a minority. It's surprising they forgot to mention the War on Christmas (maybe we'll have to wait until the fall for that one). 
+
+The fact that they all believe that Obama is an Anti-American Kenyan Muslim Communist dictator has clouded their ability to reason. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d49a9r0
+171,thing_t1_d49abft,T1mac,2,2016-06-14T20:51:09+00:00,root,"Nicely done. 
+
+Once again the CONservative right wing Evangelicals are playing the oppressed Christian minority card, when they're neither oppressed nor a minority. It's surprising they forgot to mention the War on Christmas (maybe we'll have to wait until the fall for that one). 
+
+The fact that they all believe that Obama is an Anti-American Kenyan Muslim Communist dictator has clouded their ability to reason. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d49abft
+172,thing_t1_d48ul6q,Mange-Tout,14,2016-06-14T15:37:19+00:00,d48ul6q,"Why would we need to fact check such an obviously false email? 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d48ul6q
+173,thing_t1_d48wtug,jaredwards,2,2016-06-14T16:24:00+00:00,d48wtug,"I was hoping for a line-by-line fact check but I know that may be a lot to ask for. I plan on doing some research this evening but wanted to come here first. A lot of this is opinionated and hard to find statistics.. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d48wtug
+174,thing_t1_d48zj9s,ggleblanc,5,2016-06-14T17:18:23+00:00,d48zj9s,"Some of the points are taking one event or a few events and generalizing.
+
+I'll just do a couple of points.
+
+All of a sudden, Islam is taught in schools. Christianity and the bible are banned in schools.
+
+<a href=""http://www.snopes.com/politics/religion/islam.asp"" rel=""nofollow"">School for Scandal</a>
+
+Pertinent quote: As part of their social studies curriculum, Grade 7 pupils throughout California do study ancient Muslim cultures and the impact of Islam on world history...
+
+All of a sudden we must stop serving pork in prisons.
+
+<a href=""https://www.washingtonpost.com/news/federal-eye/wp/2015/10/09/finally-the-government-has-decided-to-eliminate-pork-from-the-menu-in-federal-prisons/"" rel=""nofollow"">Finally, the government has decided to eliminate pork — from the menu in federal prisons</a>
+
+The ban was rescinded later.  I realize that some people might not consider the Washington Post to practise journalism.
+
+I found these two citations with a couple of Google searches.  I consider the email to be exaggerated and truthy.
+
+
+
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d48zj9s
+175,thing_t1_d496ayo,asielen,6,2016-06-14T19:34:22+00:00,d496ayo,"I remember spending a good part of a semester learning about Islam in 7th grade... In 1999. It's nothing new.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d496ayo
+176,thing_t1_d49udlk,huxtiblejones,3,2016-06-15T05:39:12+00:00,root,"It's almost like it makes sense to learn about a religion that 1 out of 5 people in the world follow. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d49udlk
+177,thing_t1_d4gum5d,Metallica93,1,2016-06-20T17:16:01+00:00,root,"Even as someone who doesn't follow religion, I still think the top 3 should be taught in school (i.e. explained, not preached). At the very least, it would clear up the fucking ridiculous misconceptions about shit like Islam being this ultra-violent religion.
+
+Conservatives ought to love that idea.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d4gum5d
+178,thing_t1_d4916wq,jaredwards,2,2016-06-14T17:51:01+00:00,root,"Thanks for the post. LeBlanc is op indeed. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d4916wq
+179,thing_t1_d48zavy,Mange-Tout,2,2016-06-14T17:13:39+00:00,d48zavy,"The problem is that a lot of these require you to prove a negative, which is difficult indeed. For example:
+
+All of a sudden we must stop serving pork in prisons.
+
+How do we go about proving that this is not happening?
+
+
+
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d48zavy
+180,thing_t1_d49o43k,renovatio93,2,2016-06-15T02:24:47+00:00,root,"You prove they still serve pork in prisons.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d49o43k
+181,thing_t1_d5t531x,AverySays,1,2016-07-27T16:32:22+00:00,root,"You only need to find one example of a prison that serves pork to disprove this claim.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d5t531x
+182,thing_t1_d49n51j,StonBurner,4,2016-06-15T01:58:54+00:00,d49n51j,"All of a sudden white baby-boomers like me are becoming obsolete. 
+
+All of a sudden my majority privileges are being shared with people I find offensive.
+
+All of a sudden the bigotry and narrowmindeness that passed for common sense is being questioned by the ""LIBERAL MEDIA""
+
+Bla bla bla, I don't want to share my toys!  WAaaaaa~
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d49n51j
+183,thing_t1_d49sal8,DoctorBees69,3,2016-06-15T04:25:29+00:00,d49sal8,"That's weird because at no point did he say he was white. 
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d49sal8
+184,thing_t1_d49uvov,StonBurner,5,2016-06-15T05:59:44+00:00,d49uvov,"No, but I am white.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d49uvov
+185,thing_t1_d4a6zur,DoctorBees69,3,2016-06-15T14:30:25+00:00,d4a6zur,"You're complaining about some perceived racism, but assuming someone is white because of something they say?
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d4a6zur
+186,thing_t1_d66hste,SteveDensmore,2,2016-08-06T08:31:18+00:00,root,"White people eat this garbage up.
+
+",https://www.reddit.com/r/politicalfactchecking/comments/4o1r19/this_email_circulating_about_obamas_proislam/d66hste
